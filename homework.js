@@ -265,13 +265,13 @@
 
 // EXP 10
 
-let A = 1;
-let B = 2;
-let C = 3;
-let D = 4;
+// let A = 1;
+// let B = 2;
+// let C = 3;
+// let D = 4;
 
-let Y1 = Math.abs(A/B - B/C);
-let Y2 = (A + C)**(1/4);
-let Y = Y1+Y2;
+// let Y1 = Math.abs(A/B - B/C);
+// let Y2 = (A + C)**(1/4);
+// let Y = Y1+Y2;
 
-console.log(Y);
+// console.log(Y);
